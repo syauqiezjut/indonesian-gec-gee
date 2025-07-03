@@ -1,15 +1,15 @@
 # indonesian-gec-gee
-##Overview
+## Overview
 This repository contains the Indonesian GEC-GEE Dataset - the first comprehensive corpus for Grammar Error Correction and Grammar Error Explanation in Indonesian language. The dataset was developed to address the critical research gap for low-resource languages in grammatical error correction and explanation tasks.
 
-##Key Features
+## Key Features
 1,920 annotated sentence pairs from academic publications (2020-2024)
 14 grammatical error categories covering syntax, semantics, morphology, and phonology
 Expert validation by Indonesian linguistics specialists
 CSV format for easy integration and analysis
 Comprehensive evaluation of state-of-the-art LLMs with advanced reasoning techniques
 
-##Dataset Structure
+## Dataset Structure
 File Format: indonesian_gec_gee_dataset.csv
 The dataset is provided as a CSV file with the following columns:
 | Column | Description | Example |
@@ -19,6 +19,6 @@ The dataset is provided as a CSV file with the following columns:
 | label | Error category/type | "morfologi_afiksasi" |
 | explanation | Detailed explanation of the error in Indonesian | "Kata 'memeriksa' seharusnya 'memeriksakan' karena..." |
 
-##Download Dataset
+## Download Dataset
 Direct Download Links
 <p>Full Dataset: https://drive.google.com/file/d/1iZ5Y83TPHZwdeya2OkMAF-L5YPH1Vuzd/view?usp=sharing</p>
