@@ -3,25 +3,25 @@
 This repository contains the Indonesian GEC-GEE Dataset - the first comprehensive corpus for Grammar Error Correction and Grammar Error Explanation in Indonesian language. The dataset was developed to address the critical research gap for low-resource languages in grammatical error correction and explanation tasks.
 
 <p align="center">
-  <img src="figure1.pdf" alt="IGED Architecture"/>
+  <img src="figure1.png" alt="IGED Architecture"/>
   <br>
   <em>Experimental framework for Indonesian GEC-GEE.</em>
 </p>
 
 <p align="center">
-  <img src="Figure2_PerformanceMetrics.pdf" alt="IGED Architecture"/>
+  <img src="Figure2_PerformanceMetrics.png" alt="IGED Architecture"/>
   <br>
   <em>Performance metrics across model-technique combinations.</em>
 </p>
 
 <p align="center">
-  <img src="Figure3_HumanEvaluation.pdf" alt="IGED Architecture"/>
+  <img src="Figure3_HumanEvaluation.png" alt="IGED Architecture"/>
   <br>
   <em>Human evaluation results across four dimensions: semantic preservation, academic acceptability, explanation clarity, and educational value.</em>
 </p>
 
 <p align="center">
-  <img src="Figure4_ErrorCategoryAnalysis.pdf" alt="IGED Architecture"/>
+  <img src="Figure4_ErrorCategoryAnalysis.png" alt="IGED Architecture"/>
   <br>
   <em>Correction success rates across 14 grammatical error categories for each model and prompting technique.</em>
 </p>
